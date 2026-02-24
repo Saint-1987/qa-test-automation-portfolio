@@ -6,6 +6,8 @@
             <class name="tests.LoginTest"/>
             <class name="tests.DropdownTest"/>
             <class name="tests.CheckboxTest"/>
+            <class name="api.GetUserTest"/>
+            <class name="api.CreateUserTest"/>
         </classes>
     </test>
 
